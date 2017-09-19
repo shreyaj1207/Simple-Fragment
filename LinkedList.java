@@ -1,3 +1,4 @@
+//Added a second comment
 import java.util.Scanner;
 public class LinkedList {
 
